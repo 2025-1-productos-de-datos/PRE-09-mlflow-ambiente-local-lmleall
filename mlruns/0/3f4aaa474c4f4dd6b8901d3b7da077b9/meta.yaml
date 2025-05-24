@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Github/Productos_de_datos/PRE-09-mlflow-ambiente-local-lmleall/mlruns/0/3f4aaa474c4f4dd6b8901d3b7da077b9/artifacts
+end_time: 1748102534822
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3f4aaa474c4f4dd6b8901d3b7da077b9
+run_name: intelligent-lynx-376
+run_uuid: 3f4aaa474c4f4dd6b8901d3b7da077b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748102534137
+status: 4
+tags: []
+user_id: marce

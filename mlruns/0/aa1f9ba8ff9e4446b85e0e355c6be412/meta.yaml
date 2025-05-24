@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Github/Productos_de_datos/PRE-09-mlflow-ambiente-local-lmleall/mlruns/0/aa1f9ba8ff9e4446b85e0e355c6be412/artifacts
+end_time: 1748102868735
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa1f9ba8ff9e4446b85e0e355c6be412
+run_name: sincere-lynx-144
+run_uuid: aa1f9ba8ff9e4446b85e0e355c6be412
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748102868267
+status: 4
+tags: []
+user_id: marce
